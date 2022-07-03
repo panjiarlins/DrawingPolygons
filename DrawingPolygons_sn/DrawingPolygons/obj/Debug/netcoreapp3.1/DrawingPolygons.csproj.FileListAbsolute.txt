@@ -1,0 +1,16 @@
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\obj\Debug\netcoreapp3.1\DrawingPolygons.csprojAssemblyReference.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\obj\Debug\netcoreapp3.1\DrawingPolygons.csproj.GenerateResource.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\obj\Debug\netcoreapp3.1\DrawingPolygons.AssemblyInfoInputs.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\obj\Debug\netcoreapp3.1\DrawingPolygons.AssemblyInfo.cs
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\obj\Debug\netcoreapp3.1\DrawingPolygons.csproj.CoreCompileInputs.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\bin\Debug\netcoreapp3.1\DrawingPolygons.exe
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\bin\Debug\netcoreapp3.1\DrawingPolygons.deps.json
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\bin\Debug\netcoreapp3.1\DrawingPolygons.runtimeconfig.json
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\bin\Debug\netcoreapp3.1\DrawingPolygons.runtimeconfig.dev.json
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\bin\Debug\netcoreapp3.1\DrawingPolygons.dll
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\bin\Debug\netcoreapp3.1\DrawingPolygons.pdb
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\obj\Debug\netcoreapp3.1\DrawingPolygons.dll
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\obj\Debug\netcoreapp3.1\DrawingPolygons.pdb
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\obj\Debug\netcoreapp3.1\DrawingPolygons.genruntimeconfig.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\obj\Debug\netcoreapp3.1\DrawingPolygons.MainForm.resources
+C:\Users\PANJI\Documents\Semester 5\CGA\repos\DrawingPolygons_sn\DrawingPolygons\obj\Debug\netcoreapp3.1\DrawingPolygons.Properties.Resources.resources
